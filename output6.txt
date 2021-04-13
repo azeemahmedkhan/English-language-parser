@@ -1,0 +1,6 @@
+S 
+NP VP 
+NP Verb 
+NP prefer 
+Pronoun prefer 
+i prefer 

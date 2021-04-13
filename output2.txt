@@ -1,0 +1,9 @@
+S 
+NP VP 
+NP Verb NP 
+NP like NP 
+NP like Determiner Nominal 
+NP like a Nominal 
+Pronoun like a Nominal 
+i like a Nominal 
+i like a horse 

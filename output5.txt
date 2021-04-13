@@ -1,0 +1,16 @@
+S 
+NP VP 
+NP Verb Y 
+NP prefer Y 
+NP prefer NP PP 
+NP prefer NP Preposition NP 
+NP prefer NP from NP 
+NP prefer Determiner Nominal from NP 
+NP prefer a Nominal from NP 
+NP prefer a Nominal from Proper-Noun 
+NP prefer a Nominal from chicago 
+Pronoun prefer a Nominal from chicago 
+i prefer a Nominal from chicago 
+i prefer a Noun Nominal from chicago 
+i prefer a morning Nominal from chicago 
+i prefer a morning flight from chicago 

@@ -1,0 +1,9 @@
+S 
+NP VP 
+NP Verb NP 
+NP is NP 
+NP is Determiner Nominal 
+NP is a Nominal 
+Pronoun is a Nominal 
+he is a Nominal 
+he is a man 

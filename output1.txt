@@ -1,0 +1,10 @@
+S 
+NP VP 
+NP Verb NP 
+NP is NP 
+Determiner Nominal is NP 
+the Nominal is NP 
+the Nominal is Determiner Nominal 
+the Nominal is a Nominal 
+the school is a Nominal 
+the school is a place 
